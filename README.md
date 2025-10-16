@@ -70,3 +70,5 @@ Get all characters
 }
 ]
 }
+
+test
