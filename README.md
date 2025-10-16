@@ -14,7 +14,7 @@ Get all characters
  GET https://rickandmortyapi.com/api/character
 
 ```
-
+ test
 | Parameter | Type     | Description                                                         |
 | :-------- | :------- | :------------------------------------------------------------------ |
 | `pagina`  | `number` | (opcional) Número de página de resultados. Por defecto inicia en 1. |
