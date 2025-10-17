@@ -25,6 +25,8 @@ def get_book(book_id):
         return jsonify(book)
     return jsonify({"message": "Book not found"}), 404
 
+# Desarrollo 
+
 # Route to add a new book
 @app.route("/books", methods=["POST"])
 def add_book():
